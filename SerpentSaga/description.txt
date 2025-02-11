@@ -1,0 +1,1 @@
+In this game, the player controls a snake using the arrow keys of the keyboard. The snake can go in all four directions (up, down, left, and right)
